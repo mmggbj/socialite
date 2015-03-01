@@ -1,0 +1,1 @@
+!function(a){"use strict";a(".list-sidebar a").tooltip({placement:"right"}),a("body").on("click",".navmain .open",function(b){b.preventDefault(),a("main").toggleClass("opened")}).on("click",".opened .content",function(){a("main").removeClass("opened")})}(jQuery);
