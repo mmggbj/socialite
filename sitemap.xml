@@ -1,512 +1,542 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://socialite.ungryfox.com/events/list.html</loc>
-    <lastmod>2015-03-01T13:45:27.937Z</lastmod>
+    <loc>http://socialite.ungryfox.com/events/item.html</loc>
+    <lastmod>2015-03-07T01:02:52.649Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/changelog.html</loc>
-    <lastmod>2015-03-01T13:45:27.938Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.650Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/chart.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.650Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/configuration.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/css.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/deploy.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/elements.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/events.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/forms.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/grid.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/icons.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/index.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/installation.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/introduction.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/issues.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/login.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/messages.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/player.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/profile.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/admin/reports.html</loc>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/settings.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/structure.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/tables.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/tasks.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/typography.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/users.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/admin/widgets.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/advertising.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/awards.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/beta.html</loc>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/blog.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/brand.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/callback.html</loc>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/change-password.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/cities.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/city.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/contact.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/developers/api.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/developers/documentation.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/developers/releases.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/download.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/downloading.html</loc>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/events/add.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/events/featured.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://socialite.ungryfox.com/events/item.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://socialite.ungryfox.com/events/latest.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/about.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/events/latest.html</loc>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/events/list.html</loc>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/events/upcoming.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/faq.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/feedback.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/find-us.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/gallery/featured.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/gallery/photos.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/gallery/videos.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.651Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/index.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/invite.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/involved/bug.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/involved/careers.html</loc>
-    <lastmod>2015-03-01T13:45:27.939Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/involved/donate.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/involved/partner.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/involved/stories.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/involved/volunteer.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/login.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/login2.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/maintenance.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/messages.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/page.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/places/add.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/places/list.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/policy.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/press.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/profile.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/promotions/add.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/promotions/list.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/reset-password.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/search.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/session.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/settings.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://socialite.ungryfox.com/setup.html</loc>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/signup.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/support/help.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/support/wiki.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/team.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/terms.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/thanks.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/users/bookmarks.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/users/list.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/users/profile.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/users/user.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://socialite.ungryfox.com/verify.html</loc>
-    <lastmod>2015-03-01T13:45:27.940Z</lastmod>
+    <lastmod>2015-03-07T01:02:52.652Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
