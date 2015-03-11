@@ -1,0 +1,1 @@
+!function(a){"use strict";a("li.active").parents("li").addClass("active")}(jQuery),function(a){"use strict";a('[data-toggle="tooltip"]').tooltip()}(jQuery);
