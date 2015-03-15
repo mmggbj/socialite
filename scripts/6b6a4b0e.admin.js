@@ -1,0 +1,1 @@
+!function(a){"use strict";a(".list-sidebar a").tooltip({placement:"right"}),a("body").on("click",".navmain .openup",function(b){b.preventDefault(),a("main").toggleClass("opened"),a(this).parent("li").toggleClass("active")}).on("click",".opened .content",function(){a("main").removeClass("opened"),a(".navmain .openup").parent("li").removeClass("active")})}(jQuery);
